@@ -13,3 +13,4 @@
 * **npx cypress open** : opens the Cypress Test Runner
 * **./node_modules/.bin/cypress run** : run headless mode
 * **./node_modules/.bin/cypress run --headed** : same as npx cypress open
+* **./node_modules/.bin/cypress run --browser chrome** : run hin chrome browser
